@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "Juan",
+      "lastName": "Rosario",
+      "email": "asdf@hotmail.com",
+      "mobile": "80980989089",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "Juan",
+      "lastName": "Rosario",
+      "email": "asdf@hotmail.com",
+      "mobile": "80980989089",
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "firstName": "Mario",
+      "lastName": "Lama",
+      "email": "asdf@asdf",
+      "mobile": "4125",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstName": "probando",
+      "lastName": "es que se sabe",
+      "email": "adf@hotmail.com",
+      "mobile": "4054505",
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "firstName": "adsf",
+      "lastName": "adf",
+      "email": "adf",
+      "mobile": "asdf",
+      "salary": ""
+    },
+    {
+      "id": 7,
+      "firstName": "mamacita",
+      "lastName": "505050",
+      "email": "asdf",
+      "mobile": "5050",
+      "salary": ""
+    },
+    {
+      "id": 8,
+      "firstName": "otro",
+      "lastName": "adf",
+      "email": "adf",
+      "mobile": "adsf",
+      "salary": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
